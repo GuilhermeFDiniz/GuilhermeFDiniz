@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex;">
   
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=GuilhermeFDiniz.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-  <div>
-    <h2>🙋🏻 I'm Guilherme Diniz (Full-Stack Developer) </h2>
+  
+   
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F740&width=435&lines=I'm+Guilherme+Diniz+%7C+Full-Stack+Developer)
+    <div>
     <h4>⚡ I have graduated in Electrical Engineer and still graduating in Software Engineering. 💻 </h4>
     <h4>❤️ I am a tennis passionate and do play a trading card game called "Magic the Gathering" as a hobby. 🎾</h4>
   </div>
