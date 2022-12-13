@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
 <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=8&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=8&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" />
 </a>
+  <a href="https://github.com/GuilhermeFDiniz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeFDiniz&repo=ez2schedule&theme=chartreuse-dark" />
+</a>
+</div>
+
