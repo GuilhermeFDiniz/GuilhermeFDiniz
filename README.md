@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/GuilhermeFDiniz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" />
-</a>
-  <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeFDiniz&repo=ez2schedule&theme=chartreuse-dark" />
-</a>
 </div>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeFDiniz&repo=ez2schedule&theme=chartreuse-dark)
 
