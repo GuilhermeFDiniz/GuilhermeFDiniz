@@ -23,8 +23,7 @@ Here are some ideas to get you started:
     <h4>⚡ I have graduated in Electrical Engineer and still graduating in Software Engineering. 💻 </h4>
     <h4>❤️ I am a tennis passionate and do play a trading card game called "Magic the Gathering" as a hobby. 🎾</h4>
   </div>
-  <div>
-    <br></br>
+  <dl>
     <p>📫<strong>My Social Media:</strong></p>
     <a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
       <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
@@ -35,17 +34,14 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/guilherme.f.diniz/" target="blank">
       <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
     </a>
-  </div>
-
-
-<br></br>
+  </dl>
 
 <div align="center">
 <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=4&theme=chartreuse-dark" style="width:300px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=4&theme=chartreuse-dark" style="width:400px;" />
 </a>
 <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" style="width:300px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" style="width:400px;" />
 </a>
 </div>
 
