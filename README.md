@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex;">
   
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=GuilhermeFDiniz.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
-
   <div>
-    <p> I'm Guilherme Diniz</p>
+    <h2>I'm Guilherme Diniz.</h2>
+    <h4>I have graduated in Electrical Engineer and still graduating in Software Engineering. I am a tennis passionate and do play a trading card game called "Magic the Gathering" as a hobby.</h4>
   </div>
   <div>
-    <p>My Social Media:</p>
+    <br></br>
+    <p>📫<strong>My Social Media:</strong></p>
     <a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
       <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
     </a>
