@@ -1,4 +1,22 @@
-### Hi there 👋
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <p>Hi there 👋</p>
+  </div>
+  <div>
+    <p>My Social Media:</p>
+    <a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
+      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/guilhermefdiniz/" target="blank">
+      <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="width:25px; height:25px;" />
+    </a>
+    <a href="https://www.instagram.com/guilherme.f.diniz/" target="blank">
+      <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
+    </a>
+  </div>
+</div>
+
+. I'm Guilherme Diniz
 
 <!--
 **GuilhermeFDiniz/GuilhermeFDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,14 +45,4 @@ Here are some ideas to get you started:
 </div>
 <br></br>
 <div>
-  <p>My Social Media:</p>
-<a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
-  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
-</a>
-<a href="https://www.linkedin.com/in/guilhermefdiniz/" target="blank">
-  <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="width:25px; height:25px;" />
-</a>
-<a href="https://www.instagram.com/guilherme.f.diniz/" target="blank">
-  <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
-</a>
-  </div>
+  
