@@ -1,22 +1,3 @@
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <p>Hi there 👋</p>
-  </div>
-  <div>
-    <p>My Social Media:</p>
-    <a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
-      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/guilhermefdiniz/" target="blank">
-      <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="width:25px; height:25px;" />
-    </a>
-    <a href="https://www.instagram.com/guilherme.f.diniz/" target="blank">
-      <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
-    </a>
-  </div>
-</div>
-
-. I'm Guilherme Diniz
 
 <!--
 **GuilhermeFDiniz/GuilhermeFDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,10 +13,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" style="display: flex;">
+  
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=GuilhermeFDiniz.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
+  <div>
+    <p> I'm Guilherme Diniz</p>
+  </div>
+  <div>
+    <p>My Social Media:</p>
+    <a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
+      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/guilhermefdiniz/" target="blank">
+      <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="width:25px; height:25px;" />
+    </a>
+    <a href="https://www.instagram.com/guilherme.f.diniz/" target="blank">
+      <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
+    </a>
+  </div>
 
-<div>
+
+<br></br>
+
+<div align="center">
 <a href="https://github.com/GuilhermeFDiniz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=4&theme=chartreuse-dark" style="width:300px;" />
 </a>
@@ -43,6 +45,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" style="width:300px;" />
 </a>
 </div>
-<br></br>
-<div>
-  
+
+  </div>
