@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=GuilhermeFDiniz.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
   <div>
-    <h2>🙋🏻 I'm Guilherme Diniz.  </h2>
+    <h2>🙋🏻 I'm Guilherme Diniz (Full-Stack Developer) </h2>
     <h4>⚡ I have graduated in Electrical Engineer and still graduating in Software Engineering. 💻 </h4>
     <h4>❤️ I am a tennis passionate and do play a trading card game called "Magic the Gathering" as a hobby. 🎾</h4>
   </div>
