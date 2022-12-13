@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=8&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=4&theme=chartreuse-dark" style="width:300px;" />
 </a>
 <a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" style="width:300px;" />
 </div>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeFDiniz&repo=ez2schedule&theme=chartreuse-dark)
-
