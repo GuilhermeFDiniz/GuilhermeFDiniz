@@ -17,14 +17,4 @@
       <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
     </a>
   </dl>
-
-<div align="center">
-<a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFDiniz&layout=compact&langs_count=4&theme=chartreuse-dark" style="width:400px;" />
-</a>
-<a href="https://github.com/GuilhermeFDiniz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFDiniz&show_icons=true&theme=chartreuse-dark" style="width:400px;" />
-</a>
-</div>
-
   </div>
