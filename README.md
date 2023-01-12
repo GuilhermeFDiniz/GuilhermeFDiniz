@@ -7,14 +7,16 @@
   </div>
   <dl>
     <p>📫<strong>My Social Media:</strong></p>
+    <div">
     <a href="https://stackoverflow.com/users/20767786/guilherme-diniz" target="blank">
-      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:25px; height:25px;" />
+      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="width:40px; height:40px;" />
     </a>
     <a href="https://www.linkedin.com/in/guilhermefdiniz/" target="blank">
-      <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="width:25px; height:25px;" />
+      <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" style="width:40px; height:40px;" />
     </a>
     <a href="https://www.instagram.com/guilherme.f.diniz/" target="blank">
-      <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:25px; height:25px;" />
+      <img src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" style="width:40px; height:40px;" />
     </a>
+    </div>
   </dl>
   </div>
