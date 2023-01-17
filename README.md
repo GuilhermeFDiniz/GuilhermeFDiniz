@@ -5,6 +5,8 @@
     <h4>⚡ I have graduated in Electrical Engineer and still graduating in Software Engineering. 💻 </h4>
     <h4>❤️ I am a tennis passionate and do play a trading card game called "Magic the Gathering" as a hobby. 🎾</h4>
   </div>
+ <br>
+ <br>
   <dl>
     <p>📫<strong>My Social Media:</strong></p>
     <div">
