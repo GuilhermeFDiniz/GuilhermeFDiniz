@@ -1,6 +1,6 @@
 <div align="center" style="display: flex;">
  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F740&width=435&lines=I'm+Guilherme+%7C+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F740&width=435&lines=Guilherme+Diniz+%7C+Software+Engineer)
     <div>
     <h4>⚡ I have graduated in Electrical Engineer and still graduating in Software Engineering. 💻 </h4>
     <h4>❤️ I am a tennis passionate and do play a trading card game called "Magic the Gathering" as a hobby. 🎾</h4>
